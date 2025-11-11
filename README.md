@@ -1,5 +1,3 @@
-# typescript
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
