@@ -19,4 +19,16 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarsht0001/typescript/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarsht0001/typescript/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarsht0001/typescript/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
