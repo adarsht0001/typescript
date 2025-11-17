@@ -14,6 +14,7 @@
 | ------- |
 | [0792-binary-search](https://github.com/adarsht0001/typescript/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adarsht0001/typescript/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adarsht0001/typescript/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/adarsht0001/typescript/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
