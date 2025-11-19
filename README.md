@@ -19,6 +19,7 @@
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/adarsht0001/typescript/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
