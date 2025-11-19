@@ -5,6 +5,7 @@
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/adarsht0001/typescript/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/adarsht0001/typescript/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Number Theory
 |  |
 | ------- |
