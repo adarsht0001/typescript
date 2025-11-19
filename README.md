@@ -17,16 +17,19 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adarsht0001/typescript/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/adarsht0001/typescript/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarsht0001/typescript/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -44,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
