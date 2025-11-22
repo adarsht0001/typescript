@@ -16,6 +16,7 @@
 | [0792-binary-search](https://github.com/adarsht0001/typescript/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adarsht0001/typescript/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adarsht0001/typescript/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1646-kth-missing-positive-number](https://github.com/adarsht0001/typescript/tree/master/1646-kth-missing-positive-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/adarsht0001/typescript/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2058-concatenation-of-array](https://github.com/adarsht0001/typescript/tree/master/2058-concatenation-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/adarsht0001/typescript/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/adarsht0001/typescript/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
