@@ -3,6 +3,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adarsht0001/typescript/tree/master/0069-sqrtx) |
 | [2491-smallest-even-multiple](https://github.com/adarsht0001/typescript/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adarsht0001/typescript/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -46,6 +47,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/adarsht0001/typescript/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/adarsht0001/typescript/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/adarsht0001/typescript/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
