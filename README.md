@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adarsht0001/typescript/tree/master/0069-sqrtx) |
+| [1013-fibonacci-number](https://github.com/adarsht0001/typescript/tree/master/1013-fibonacci-number) |
 | [2491-smallest-even-multiple](https://github.com/adarsht0001/typescript/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adarsht0001/typescript/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adarsht0001/typescript/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adarsht0001/typescript/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adarsht0001/typescript/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
