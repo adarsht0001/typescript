@@ -25,6 +25,7 @@
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adarsht0001/typescript/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adarsht0001/typescript/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Simulation
 |  |
 | ------- |
