@@ -24,6 +24,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/adarsht0001/typescript/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/adarsht0001/typescript/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adarsht0001/typescript/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Simulation
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adarsht0001/typescript/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/adarsht0001/typescript/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/adarsht0001/typescript/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/adarsht0001/typescript/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3044-minimum-operations-to-collect-elements](https://github.com/adarsht0001/typescript/tree/master/3044-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
