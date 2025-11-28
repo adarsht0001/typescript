@@ -8,6 +8,7 @@
 | [2491-smallest-even-multiple](https://github.com/adarsht0001/typescript/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/adarsht0001/typescript/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adarsht0001/typescript/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsht0001/typescript/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [3044-minimum-operations-to-collect-elements](https://github.com/adarsht0001/typescript/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3226-minimum-number-game](https://github.com/adarsht0001/typescript/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/adarsht0001/typescript/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarsht0001/typescript/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
