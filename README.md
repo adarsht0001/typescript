@@ -16,6 +16,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/adarsht0001/typescript/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/adarsht0001/typescript/tree/master/0792-binary-search) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adarsht0001/typescript/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adarsht0001/typescript/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -81,4 +82,8 @@
 |  |
 | ------- |
 | [3044-minimum-operations-to-collect-elements](https://github.com/adarsht0001/typescript/tree/master/3044-minimum-operations-to-collect-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/adarsht0001/typescript/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
